@@ -1,0 +1,110 @@
+body {
+  background-color: #FFEFEF;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 700%;
+  color: #7C99AC;
+  line-height: 2;
+}
+h2 {
+font-weight: normal;
+  font-size: 2.5rem;
+  font-family: 'Dawning of a New Day', cursive;
+    color: #7C99AC;
+}
+h3 {
+font-weight: normal;
+
+    color: #7C99AC;
+}
+
+hr {
+  height: 0;
+  border-top: 7px dotted #92A9BD;
+  width: 5%
+}
+
+.but {
+  color: #D3DEDC;
+  border: 0;
+  margin-top: 10px;
+  background-color: #92A9BD;
+  line-height: 2.5;
+  font-size: 1rem;
+  border-radius: 10px;
+
+}
+
+.top-container {
+  padding-top: 80px;
+  background-color: #D3DEDC;
+}
+
+.profile {
+  padding-top: 80px;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.prosiak {
+  text-decoration: underline;
+  font-size: 70px;
+}
+
+.top-cloud {
+  position: absolute;
+    padding-top: 80px;
+  right: 540px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+    padding-top: 80px;
+  left: 500px;
+  top: 200px;
+}
+
+.opis-kota {
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.paw-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.kit-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.kit-tekst {
+  text-align: right;
+}
+
+.tekst-bot {
+  margin-bottom: 0;
+}
+.bottom-container {
+background-color: #D3DEDC;
+color: #7C99AC;
+margin-top: 40px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
